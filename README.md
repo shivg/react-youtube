@@ -1,2 +1,4 @@
 #recast.ly
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+This is a personal project .
+
+An MVP implementing Youtube interface with live searching and displaying of results in real time
